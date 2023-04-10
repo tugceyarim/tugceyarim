@@ -1,4 +1,4 @@
-<img align="right" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDgzMGE3OGI5YmMxNzJmNjkzNWVkODMxMjU0NTRhNDc3ZmVhN2UwNiZjdD1n/1GEATImIxEXVR79Dhk/giphy.gif" width="400" height="250">
+<img align="right" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDgzMGE3OGI5YmMxNzJmNjkzNWVkODMxMjU0NTRhNDc3ZmVhN2UwNiZjdD1n/1GEATImIxEXVR79Dhk/giphy.gif" width="350" height="250">
 <img src="https://media.giphy.com/media/1GEATImIxEXVR79Dhk/source.gif" align="right" width="400" height="250" >
 
 ### Hi there, I'm Tuğçe :blush:
