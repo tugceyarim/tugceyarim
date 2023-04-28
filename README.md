@@ -3,7 +3,7 @@
 
 ### Hi there, I'm Tuğçe :blush:
 
-## Full Stcak Developer
+## Full Stack Developer
 
 ### Reach out to me
 
